@@ -1,0 +1,33 @@
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+body.dark-mode header {
+    background-color: #1e1e1e;
+}
+
+body.dark-mode .hero h1 {
+    color: #64b5f6;
+}
+
+body.dark-mode .hero p {
+    color: #ddd;
+}
+
+body.dark-mode footer {
+    color: #aaa;
+}
+
+body.dark-mode #theme-button {
+    background-color: #333;
+}
+#theme-button {
+    background-color: #333;
+    color: white;
+}
+
+body.dark-mode #theme-button {
+    background-color: white;
+    color: black;
+}
